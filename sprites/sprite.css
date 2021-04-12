@@ -1,0 +1,70 @@
+.sprite {
+    background-image: linear-gradient(transparent, transparent), url("finalsprite-6479edbc.svg");
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.svg-arrow-left {
+background-position: 0 0;
+width: 16px;
+height: 26px;
+}
+
+
+.svg-arrow-right {
+background-position: 0 -26px;
+width: 16px;
+height: 26px;
+}
+
+
+.svg-big-eclipse {
+background-position: 0 -52px;
+width: 722px;
+height: 741px;
+}
+
+
+.svg-cart {
+background-position: 0 -793px;
+width: 35px;
+height: 35px;
+}
+
+
+.svg-dot {
+background-position: 0 -828px;
+width: 22px;
+height: 22px;
+}
+
+
+.svg-dot-full {
+background-position: 0 -850px;
+width: 22px;
+height: 22px;
+}
+
+
+.svg-logo {
+background-position: 0 -872px;
+width: 46px;
+height: 24px;
+}
+
+
+.svg-mid-eclipse {
+background-position: 0 -896px;
+width: 498px;
+height: 498px;
+}
+
+
+.svg-small-eclipse {
+background-position: 0 -1394px;
+width: 382px;
+height: 326px;
+}
+
+

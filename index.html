@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="sprites/css/style.css">
+    <script src="https://kit.fontawesome.com/fd21094edb.js" crossorigin="anonymous"></script>
+    <title>Documents</title>
+</head>
+<body>
+    <header>
+           <div class="logo-container">
+               <img src="../img/logo.svg">
+               <h4 class="logo">Three Dots</h4>
+           </div>
+               <nav>
+                   <ul class="navlinks">
+                       <li><a class="nav-link" href="#">Specss</a></li>
+                       <li><a class="nav-link" href="#">Products</a></li>
+                       <li><a class="nav-link" href="#">Contacts</a></li>
+                   </ul>
+               </nav>
+               <div class="cart"><img src="./img/cart.svg"></div>
+       </header>   
+   <main>
+           <section class="presentation">
+               <div class="introduction">
+                   <div class="intro-text">
+                        <h1>Laptop For Future</h1>
+                       <p>The new 14 inch laptop</p>
+                   </div>
+                   <div class="cta">
+                       <button class="cta-select">14 INCH</button>
+                       <button class="cta-add">Add TO Cart</button>
+                   </div>
+               </div>
+               <div class="cover">
+                   <img id="a" src="./img/matebook.png" alt="matebook0">
+               </div>
+               <div class="cover">
+                   <img id="b" src="./img/mac.png" alt="matebook0">
+               </div>
+               <div class="cover">
+                   <img id="c" src="./img/tab.png" alt="matebook0">
+               </div>
+   
+           </section>
+           <div class="laptop-select">
+               <img onclick="plus(-1)" id="left" src="./img/arrow-left.svg" alt="">
+               <span onclick="num(0)"></span>
+               <span onclick="num(1)"></span>
+               <span onclick="num(2)"></span>
+               <img onclick="plus(1)" id="right" src="./img/arrow-right.svg" alt="">
+           </div>
+           <img class="big-circle" src="./img/big-eclipse.svg" alt="">
+           <img class="mid-circle" src="./img/mid-eclipse.svg" alt="">
+           <img class="small-circle" src="./img/small-eclipse.svg" alt=""> 
+   
+   
+   
+       </main>   
+    <section id="lower">
+            <div class="fluid-container">
+                <footer class="pt-4 my-md-5 pt-md-5 border-top">
+                    <div class="row">
+                        <div class="col-12 cntct-1">
+                            <i class="fab fa-instagram fa-2x ic"></i>
+                            <i class="fab fa-facebook fa-2x ic"></i>
+                            <i class="fas fa-envelope fa-2x ic"></i>
+                        </div>
+                        <div class="col-12 cntct">
+                            © 3...dots 2020-2021
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </section><script src="./js/index.js"></script>
+</body>
+</html>

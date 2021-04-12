@@ -1,0 +1,54 @@
+.svg-arrow-left {
+	background: url("../sprite-6479edbc.svg") 0 0 no-repeat;
+	width: 16px;
+	height: 26px;
+}
+
+.svg-arrow-right {
+	background: url("../sprite-6479edbc.svg") 0 1.5348288075560803% no-repeat;
+	width: 16px;
+	height: 26px;
+}
+
+.svg-big-eclipse {
+	background: url("../sprite-6479edbc.svg") 0 5.3115423901940755% no-repeat;
+	width: 722px;
+	height: 741px;
+}
+
+.svg-cart {
+	background: url("../sprite-6479edbc.svg") 0 47.06231454005935% no-repeat;
+	width: 35px;
+	height: 35px;
+}
+
+.svg-dot {
+	background: url("../sprite-6479edbc.svg") 0 48.763250883392224% no-repeat;
+	width: 22px;
+	height: 22px;
+}
+
+.svg-dot-full {
+	background: url("../sprite-6479edbc.svg") 0 50.05889281507656% no-repeat;
+	width: 22px;
+	height: 22px;
+}
+
+.svg-logo {
+	background: url("../sprite-6479edbc.svg") 0 51.41509433962264% no-repeat;
+	width: 46px;
+	height: 24px;
+}
+
+.svg-mid-eclipse {
+	background: url("../sprite-6479edbc.svg") 0 73.32242225859247% no-repeat;
+	width: 498px;
+	height: 498px;
+}
+
+.svg-small-eclipse {
+	background: url("../sprite-6479edbc.svg") 0 100% no-repeat;
+	width: 382px;
+	height: 326px;
+}
+
